@@ -1,0 +1,8 @@
+[package]
+name = "OpenAIAPIforRust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+openai-api-rs = "5.0.8"
+tokio = "1.40.0"
